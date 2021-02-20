@@ -1,11 +1,9 @@
 name: Django Rest
-
 on:
   push:
     branches: [ Main ]
   pull_request:
     branches: [ Main ]
-
 jobs:
   build:
 
